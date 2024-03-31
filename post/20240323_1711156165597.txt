@@ -1,0 +1,285 @@
+3:I[5613,[],""]
+5:I[1778,[],""]
+4:["postId","20240323_1711156165597","d"]
+0:["hjlS4wXSwAzcG-7FhIIIK",[[["",{"children":["post",{"children":[["postId","20240323_1711156165597","d"],{"children":["__PAGE__?{\"postId\":\"20240323_1711156165597\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["post",{"children":[["postId","20240323_1711156165597","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98f63ff3d71cda2a.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"children":["$","body",null,{"children":[["$","div",null,{"id":"root"}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/86b14ee2dada70cb.css","precedence":"next","crossOrigin":""}]],"$L6"]]]]
+7:I[8562,["607","static/chunks/607-79f310cc59f7d1f0.js","643","static/chunks/app/post/%5BpostId%5D/page-9df3e5cb33453634.js"],""]
+2:["$","main",null,{"className":"flex min-h-screen flex-col items-center justify-between","children":["$","div",null,{"id":"blog","className":"w-screen h-screen flex flex-row relative","style":{},"children":[["$","$L7",null,{}],["$","div",null,{"id":"main-section-2","className":"w-full bg-white overflow-y-auto","children":["$","div",null,{"id":"page-wrapper","className":"w-full h-full ","children":[["$","div",null,{"id":"page-wrapper-title","className":"w-full flex justify-center bg-gray-100 ","children":["$","h1",null,{"className":"flex break-normal h-96 align-middle items-center ","children":["$","div",null,{"className":"","children":[["$","div",null,{"className":"text-base","children":["$","div",null,{"className":"flex flex-row items-center ","children":["$","h5",null,{"className":"","children":["2024",".","03",".","23"]}]}]}],["$","div",null,{"className":"text-2xl","children":["$","div",null,{"className":"w-full flex flex-col lg:flex-row items-start lg:items-center ","children":[["$","h3",null,{"className":"","children":"옵시디언으로 블로그 만들기"}],false]}]}]]}]}]}],["$","hr",null,{}],["$","div",null,{"id":"page-wrapper-children","className":"w-full flex justify-center","children":"$L8"}],["$","div",null,{"id":"page-wrapper-spacer","className":"pt-12"}]]}]}],["$","div",null,{"id":"main-section-3","className":"w-full bg-blue-50 hidden lg:block","style":{"maxWidth":"300px"}}]]}]}]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"옵시디언으로 블로그 만들기"}],["$","meta","3",{"name":"description","content":"윤일로의 블로그"}],["$","meta","4",{"name":"author","content":"yildbs"}],["$","meta","5",{"name":"keywords","content":"Obsidian,Github Pages"}],["$","meta","6",{"name":"category","content":"Obsidian"}],["$","meta","7",{"property":"og:title","content":"옵시디언으로 블로그 만들기"}],["$","meta","8",{"property":"og:description","content":"윤일로의 블로그"}],["$","meta","9",{"property":"og:image","content":"https://yildbs.github.io/Pasted%20image%2020221003180721.png"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"옵시디언으로 블로그 만들기"}],["$","meta","12",{"name":"twitter:description","content":"윤일로의 블로그"}],["$","meta","13",{"name":"twitter:image","content":"https://yildbs.github.io/Pasted%20image%2020221003180721.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
+9:I[1797,["607","static/chunks/607-79f310cc59f7d1f0.js","643","static/chunks/app/post/%5BpostId%5D/page-9df3e5cb33453634.js"],""]
+a:T84c0,
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <h3>옵시디언으로 블로그 작성하기</h3><p>현재 글을 <span style="background-color:powderblue;width: fit-content;">옵시디언</span>에서 작성하고 있다. 그리고 옵시디언에서 적는 글을 블로그로 포스팅한다. 예전부터 여러가지 블로그를 시도했다. 구글 블로그 스팟, 티스토리, GitHub Pages로 블로그 만들기 등등..  근데 뭔가 한군데씩 맘에 들지 않는게 있었다. GitHub Pages, 그러니까 github.io로 했던 예전 시도도 사실 옵시디언을 블로그로 만든 형태였다. 근데 당시에는 md 파일을 html로 변환해주는 프레임워크인 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 을 사용해서 블로그를 만들었었다. 이 방식도 나름 괜찮긴 했는데, 이래저래 블로그를 내가 원하는 방식으로 꾸미기가 힘들었다. 무언가 하나 고칠때마다 에러와 씨름했다. 이게 프레임워크의 힘을 빌리는 것이다보니 커스터마이징하는데 삽질을 많이했다. 그래서 이런저런 피로감에 블로그를 지속할수 없다는 생각이 들어서 블로그를 접었다. 그게 1년쯤 전이다. 근데 요즘 취미로 뭘 좀 만들면서 프론트 쪽을 공부하게 됐다. 이제는 내가 원하는 방식으로 블로그를 만들수 있겠다는 생각이 들었다. 그래서 오랜 숙원중 하나였던 꾸준히 지속가능한 블로그를 만들어보려고 한다. 이젠 거의 100% 수제작 블로그가 가능해졌다.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style="padding-top: 1.25rem;padding-bottom: 1.25rem;"
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style="--tw-bg-opacity: 1; background-color: rgba(255, 251, 235, var(--tw-bg-opacity));"
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <div class="w-full py-5 flex flex-col items-center ">
+        <img class="py-5 " style src="/static/obsidian/Pasted image 20240328214636.png">_🌲 Attachments/Pasted image 20240328214636.png</img>
+        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <h3>포스팅 프로세스</h3><p>이번에 만든 블로그의 포스팅 프로세스는 다음과 같다. </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <div
+class="w-full"
+style="padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;"
+>
+<ol><li>옵시디언에서 글으르 쓴다. 이때 글은 Markdown 형식으로 작성한다. </li><li>작성된 마크다운 문서를 파이썬으로 파싱해서 json의 형태로 바꾼다.</li><li>이때, 문서의 프론트 매터 등 기타 정보가 포함되고, 컨텐츠 내용은 html로 변환된다.</li><li>해당 Json을 읽고, 포스팅할수 있는 프론트 웹페이지를 만든다. React, Typescript, Tailwind를 사용하고, vite로 빌드했다.</li><li>이를 깃헙페이지에 push하여 호스팅한다. </li></ol>
+</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <p>이를 위해서 크게 2개의 프로젝트가 필요하다. 옵시디언 빌더, 블로그 프론트가 그것들이다. </p><h4>옵시디언 빌더</h4><p>먼저 옵시디언 빌더 프로젝트다. 이 프로젝트는 옵시디언 경로에 있는 markdown 파일을 읽어서 json으로 변환하는 프로젝트로 파이썬으로 개발했다. 출력된 json은 다음과 같다. 여기서 핵심은 html 키값이다. 이러한 json 파일이 만들어지면, 프론트 프로젝트로 복사된다. </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style="padding-top: 2.25rem;padding-bottom: 2.25rem;"
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style="--tw-bg-opacity: 1; background-color: rgba(255, 251, 235, var(--tw-bg-opacity));"
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <div style=" position: relative; padding-top: 1.25rem; padding-bottom: 1.25rem; margin-top: 1.25rem; margin-bottom: 1.25rem; background-color: #2E3440; border-radius: 1rem; "> <style scoped> td.linenos { padding-right: 0.5rem; } div.linenodiv { color: #ffffff } table{ table-layout: fixed; color: #ffffff; width: 100%; font-family: "Almarai", sans-serif; } table > tbody > tr { display: flex; flex-direction: row; } td.code { width: 100%; overflow-x: auto; } pre { line-height: 125%; } td.linenos .normal { color: #D8DEE9; background-color: #242933; padding-left: 5px; padding-right: 5px; } span.linenos { color: #D8DEE9; background-color: #242933; padding-left: 5px; padding-right: 5px; } td.linenos .special { color: #242933; background-color: #D8DEE9; padding-left: 5px; padding-right: 5px; } span.linenos.special { color: #242933; background-color: #D8DEE9; padding-left: 5px; padding-right: 5px; } .code .hll { background-color: #3B4252 } .code .c { color: #616e87; font-style: italic } .code .err { color: #bf616a } .code .esc { color: #d8dee9 } .code .g { color: #d8dee9 } .code .k { color: #81a1c1; font-weight: bold } .code .l { color: #d8dee9 } .code .n { color: #d8dee9 } .code .o { color: #81a1c1; font-weight: bold } .code .x { color: #d8dee9 } .code .p { color: #eceff4 } .code .ch { color: #616e87; font-style: italic } .code .cm { color: #616e87; font-style: italic } .code .cp { color: #5e81ac; font-style: italic } .code .cpf { color: #616e87; font-style: italic } .code .c1 { color: #616e87; font-style: italic } .code .cs { color: #616e87; font-style: italic } .code .gd { color: #bf616a } .code .ge { color: #d8dee9; font-style: italic } .code .ges { color: #d8dee9; font-weight: bold; font-style: italic } .code .gr { color: #bf616a } .code .gh { color: #88c0d0; font-weight: bold } .code .gi { color: #a3be8c } .code .go { color: #d8dee9 } .code .gp { color: #616e88; font-weight: bold } .code .gs { color: #d8dee9; font-weight: bold } .code .gu { color: #88c0d0; font-weight: bold } .code .gt { color: #bf616a } .code .kc { color: #81a1c1; font-weight: bold } .code .kd { color: #81a1c1; font-weight: bold } .code .kn { color: #81a1c1; font-weight: bold } .code .kp { color: #81a1c1 } .code .kr { color: #81a1c1; font-weight: bold } .code .kt { color: #81a1c1 } .code .ld { color: #d8dee9 } .code .m { color: #b48ead } .code .s { color: #a3be8c } .code .na { color: #8fbcbb } .code .nb { color: #81a1c1 } .code .nc { color: #8fbcbb } .code .no { color: #8fbcbb } .code .nd { color: #d08770 } .code .ni { color: #d08770 } .code .ne { color: #bf616a } .code .nf { color: #88c0d0 } .code .nl { color: #d8dee9 } .code .nn { color: #8fbcbb } .code .nx { color: #d8dee9 } .code .py { color: #d8dee9 } .code .nt { color: #81a1c1 } .code .nv { color: #d8dee9 } .code .ow { color: #81a1c1; font-weight: bold } .code .pm { color: #eceff4 } .code .w { color: #d8dee9 } .code .mb { color: #b48ead } .code .mf { color: #b48ead } .code .mh { color: #b48ead } .code .mi { color: #b48ead } .code .mo { color: #b48ead } .code .sa { color: #a3be8c } .code .sb { color: #a3be8c } .code .sc { color: #a3be8c } .code .dl { color: #a3be8c } .code .sd { color: #616e87 } .code .s2 { color: #a3be8c } .code .se { color: #ebcb8b } .code .sh { color: #a3be8c } .code .si { color: #a3be8c } .code .sx { color: #a3be8c } .code .sr { color: #ebcb8b } .code .s1 { color: #a3be8c } .code .ss { color: #a3be8c } .code .bp { color: #81a1c1 } .code .fm { color: #88c0d0 } .code .vc { color: #d8dee9 } .code .vg { color: #d8dee9 } .code .vi { color: #d8dee9 } .code .vm { color: #d8dee9 } .code .il { color: #b48ead }</style>  <div onclick=' (function () { navigator.clipboard.writeText(`{
+  "post_this_md": false,
+  "blog_post": true,
+  "layout": "post",
+  "title": "옵시디언으로 블로그 만들기",
+  "aliases": "옵시디언으로 블로그 만들기",
+  "subtitle": null,
+  "thumbnail-img": "",
+  "date": "20240323",
+  "parse-url": "",
+  "sources": "",
+  "tags": null,
+  "categories": ["Etc"],
+  "keywords": null,
+  "html": " <div id=\"pygen-1\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-2\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-3\" class=\"w-full\" style=\"max-width:800px;\" > <div class=\"w-full\" style=\"padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;\" > <False >  </False> </div> </div> </div> </div>  <div id=\"pygen-1\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-2\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-3\" class=\"w-full\" style=\"max-width:800px;\" > <h4>블로그를 다시 해보자</h4><p>현재 글을 옵시디언에서 작성하고 있다. 그리고 옵시디언에서 적는 글을 블로그로 포스팅한다. 예전부터 여러가지 블로그를 시도했다. 구글 블로그 스팟, 티스토리, GitHub Pages로 블로그 만들기 등등..  근데 뭔가 한군데씩 맘에 들지 않는게 있었다. GitHub Pages, 그러니까 github.io로 했던 예전 시도도 사실 옵시디언을 블로그로 만든 형태였다. 근데 당시에는 md 파일을 html로 변환해주는 프레임워크(?)인 <a href=\"https://jekyllrb.com/\" target=\"_blank\">Jekyll</a> 을 사용해서 블로그를 만들었었다. 이 방식도 나름 괜찮긴 했는데, 이래저래 내가 원하는 방식으로 꾸미기가 힘들었다. 프론트를 좀 알아야 제대로 꾸밀수 있다는 느낌을 받았다. 그래서 이런저런 피로감에 블로그를 지속할수 없다는 생각이 들어 블로그를 접었다. 그게 1년쯤 전이다. 근데 요즘 취미로 뭘 좀 만들면서 프론트 쪽을 공부하게 됐다. 이제는 내가 원하는 방식으로 블로그를 만들수 있겠다는 생각이 들었다. 그래서 오랜 숙원중 하나였던 꾸준히 지속가능한 블로그를 만들어보려고 한다. 이젠 거의 100% 수제작 블로그가 가능해졌다.</p> </div> </div> </div>  <div id=\"pygen-1\" class=\"w-full flex items-center justify-center\" style=\"padding-top: 1.25rem;padding-bottom: 1.25rem;\" > <div id=\"pygen-2\" class=\"w-full flex items-center justify-center\" style=\"--tw-bg-opacity: 1; background-color: rgba(255, 251, 235, var(--tw-bg-opacity));\" > <div id=\"pygen-3\" class=\"w-full\" style=\"max-width:800px;\" > <div class=\"w-full py-5 flex flex-col items-center \">  <img class=\"py-5 \" style src=\"/obsidian/Pasted image 20240323101052.png\">옵시디언에서 적는 글</img>  </div> </div> </div> </div>  <div id=\"pygen-1\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-2\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-3\" class=\"w-full\" style=\"max-width:800px;\" > <h4>포스팅 프로세스</h4><p>이번에 만든 블로그의 포스팅 프로세스는 다음과 같다. </p> </div> </div> </div>  <div id=\"pygen-1\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-2\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-3\" class=\"w-full\" style=\"max-width:800px;\" > <div class=\"w-full\" style=\"padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;\" > <ol > <li>옵시디언에서 글으르 쓴다. 이때 글은 Markdown 형식으로 작성한다. </li><li>작성된 마크다운 문서를 파이썬으로 파싱해서 json의 형태로 바꾼다.</li><li>이때, 문서의 프론트 매터 등 기타 정보가 포함되고, 컨텐츠 내용은 html로 변환된다.</li><li>해당 Json을 읽고, 포스팅할수 있는 프론트 웹페이지를 만든다. React, Typescript, Tailwind를 사용하고, vite로 빌드했다.</li><li>이를 깃헙페이지에 push하여 호스팅한다. </li> </ol> </div> </div> </div> </div>  <div id=\"pygen-1\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-2\" class=\"w-full flex items-center justify-center\" style=\"\" > <div id=\"pygen-3\" class=\"w-full\" style=\"max-width:800px;\" > <p>계속 작성중..</p> </div> </div> </div> ",
+  "outlinks": [],
+  "resources": ["_🌲 Attachments/Pasted image 20240323101052.png"],
+  "inlinks": [],
+  "filename": "20240323_1711156165597"
+}
+
+`); alert("Source code copied to clipboard!"); })(); ' style=" position: absolute; right: 0px; top: 0px; text-align: right; color: #fff; cursor: pointer; padding: 0.5rem 0.5rem; border-radius: 0.5rem; " >📋 COPY</div>  <div class="code"><table class="codetable"><tr><td class="linenos"><div class="linenodiv"><pre><span class="normal"> 1</span>
+<span class="normal"> 2</span>
+<span class="normal"> 3</span>
+<span class="normal"> 4</span>
+<span class="normal"> 5</span>
+<span class="normal"> 6</span>
+<span class="normal"> 7</span>
+<span class="normal"> 8</span>
+<span class="normal"> 9</span>
+<span class="normal">10</span>
+<span class="normal">11</span>
+<span class="normal">12</span>
+<span class="normal">13</span>
+<span class="normal">14</span>
+<span class="normal">15</span>
+<span class="normal">16</span>
+<span class="normal">17</span>
+<span class="normal">18</span>
+<span class="normal">19</span>
+<span class="normal">20</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">&quot;post_this_md&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;blog_post&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;layout&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;post&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;title&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;옵시디언으로 블로그 만들기&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;aliases&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;옵시디언으로 블로그 만들기&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;subtitle&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;thumbnail-img&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;date&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;20240323&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;parse-url&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;sources&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;tags&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;categories&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;Etc&quot;</span><span class="p">],</span>
+<span class="w">  </span><span class="nt">&quot;keywords&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;html&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot; &lt;div id=\&quot;pygen-1\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-2\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-3\&quot; class=\&quot;w-full\&quot; style=\&quot;max-width:800px;\&quot; &gt; &lt;div class=\&quot;w-full\&quot; style=\&quot;padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;\&quot; &gt; &lt;False &gt;  &lt;/False&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  &lt;div id=\&quot;pygen-1\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-2\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-3\&quot; class=\&quot;w-full\&quot; style=\&quot;max-width:800px;\&quot; &gt; &lt;h4&gt;블로그를 다시 해보자&lt;/h4&gt;&lt;p&gt;현재 글을 옵시디언에서 작성하고 있다. 그리고 옵시디언에서 적는 글을 블로그로 포스팅한다. 예전부터 여러가지 블로그를 시도했다. 구글 블로그 스팟, 티스토리, GitHub Pages로 블로그 만들기 등등..  근데 뭔가 한군데씩 맘에 들지 않는게 있었다. GitHub Pages, 그러니까 github.io로 했던 예전 시도도 사실 옵시디언을 블로그로 만든 형태였다. 근데 당시에는 md 파일을 html로 변환해주는 프레임워크(?)인 &lt;a href=\&quot;https://jekyllrb.com/\&quot; target=\&quot;_blank\&quot;&gt;Jekyll&lt;/a&gt; 을 사용해서 블로그를 만들었었다. 이 방식도 나름 괜찮긴 했는데, 이래저래 내가 원하는 방식으로 꾸미기가 힘들었다. 프론트를 좀 알아야 제대로 꾸밀수 있다는 느낌을 받았다. 그래서 이런저런 피로감에 블로그를 지속할수 없다는 생각이 들어 블로그를 접었다. 그게 1년쯤 전이다. 근데 요즘 취미로 뭘 좀 만들면서 프론트 쪽을 공부하게 됐다. 이제는 내가 원하는 방식으로 블로그를 만들수 있겠다는 생각이 들었다. 그래서 오랜 숙원중 하나였던 꾸준히 지속가능한 블로그를 만들어보려고 한다. 이젠 거의 100% 수제작 블로그가 가능해졌다.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  &lt;div id=\&quot;pygen-1\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;padding-top: 1.25rem;padding-bottom: 1.25rem;\&quot; &gt; &lt;div id=\&quot;pygen-2\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;--tw-bg-opacity: 1; background-color: rgba(255, 251, 235, var(--tw-bg-opacity));\&quot; &gt; &lt;div id=\&quot;pygen-3\&quot; class=\&quot;w-full\&quot; style=\&quot;max-width:800px;\&quot; &gt; &lt;div class=\&quot;w-full py-5 flex flex-col items-center \&quot;&gt;  &lt;img class=\&quot;py-5 \&quot; style src=\&quot;/obsidian/Pasted image 20240323101052.png\&quot;&gt;옵시디언에서 적는 글&lt;/img&gt;  &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  &lt;div id=\&quot;pygen-1\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-2\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-3\&quot; class=\&quot;w-full\&quot; style=\&quot;max-width:800px;\&quot; &gt; &lt;h4&gt;포스팅 프로세스&lt;/h4&gt;&lt;p&gt;이번에 만든 블로그의 포스팅 프로세스는 다음과 같다. &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  &lt;div id=\&quot;pygen-1\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-2\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-3\&quot; class=\&quot;w-full\&quot; style=\&quot;max-width:800px;\&quot; &gt; &lt;div class=\&quot;w-full\&quot; style=\&quot;padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;\&quot; &gt; &lt;ol &gt; &lt;li&gt;옵시디언에서 글으르 쓴다. 이때 글은 Markdown 형식으로 작성한다. &lt;/li&gt;&lt;li&gt;작성된 마크다운 문서를 파이썬으로 파싱해서 json의 형태로 바꾼다.&lt;/li&gt;&lt;li&gt;이때, 문서의 프론트 매터 등 기타 정보가 포함되고, 컨텐츠 내용은 html로 변환된다.&lt;/li&gt;&lt;li&gt;해당 Json을 읽고, 포스팅할수 있는 프론트 웹페이지를 만든다. React, Typescript, Tailwind를 사용하고, vite로 빌드했다.&lt;/li&gt;&lt;li&gt;이를 깃헙페이지에 push하여 호스팅한다. &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  &lt;div id=\&quot;pygen-1\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-2\&quot; class=\&quot;w-full flex items-center justify-center\&quot; style=\&quot;\&quot; &gt; &lt;div id=\&quot;pygen-3\&quot; class=\&quot;w-full\&quot; style=\&quot;max-width:800px;\&quot; &gt; &lt;p&gt;계속 작성중..&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;outlinks&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span>
+<span class="w">  </span><span class="nt">&quot;resources&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;_🌲 Attachments/Pasted image 20240323101052.png&quot;</span><span class="p">],</span>
+<span class="w">  </span><span class="nt">&quot;inlinks&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span>
+<span class="w">  </span><span class="nt">&quot;filename&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;20240323_1711156165597&quot;</span>
+<span class="p">}</span>
+</code></pre></div></td></tr></table></div>
+ </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <p>그리고 마크다운 문서들의 목록이 담겨있는 구조 파일이 필요하다. 이 또한 json으로 출력된다. 아래 문서처럼 어떤 카테고리가 있는지, 각 카테고리에는 어떤 글이 들어있는지, 페이지는 몇 페이지나 되는지 등등 정보들이 담겨있다. 프론트에서는 여기 담겨 있는 파일명을 읽고, 해당 파일을 import하여 페이지를 표시할수 있다.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style="padding-top: 2.25rem;padding-bottom: 2.25rem;"
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style="--tw-bg-opacity: 1; background-color: rgba(255, 251, 235, var(--tw-bg-opacity));"
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <div style=" position: relative; padding-top: 1.25rem; padding-bottom: 1.25rem; margin-top: 1.25rem; margin-bottom: 1.25rem; background-color: #2E3440; border-radius: 1rem; "> <style scoped> td.linenos { padding-right: 0.5rem; } div.linenodiv { color: #ffffff } table{ table-layout: fixed; color: #ffffff; width: 100%; font-family: "Almarai", sans-serif; } table > tbody > tr { display: flex; flex-direction: row; } td.code { width: 100%; overflow-x: auto; } pre { line-height: 125%; } td.linenos .normal { color: #D8DEE9; background-color: #242933; padding-left: 5px; padding-right: 5px; } span.linenos { color: #D8DEE9; background-color: #242933; padding-left: 5px; padding-right: 5px; } td.linenos .special { color: #242933; background-color: #D8DEE9; padding-left: 5px; padding-right: 5px; } span.linenos.special { color: #242933; background-color: #D8DEE9; padding-left: 5px; padding-right: 5px; } .code .hll { background-color: #3B4252 } .code .c { color: #616e87; font-style: italic } .code .err { color: #bf616a } .code .esc { color: #d8dee9 } .code .g { color: #d8dee9 } .code .k { color: #81a1c1; font-weight: bold } .code .l { color: #d8dee9 } .code .n { color: #d8dee9 } .code .o { color: #81a1c1; font-weight: bold } .code .x { color: #d8dee9 } .code .p { color: #eceff4 } .code .ch { color: #616e87; font-style: italic } .code .cm { color: #616e87; font-style: italic } .code .cp { color: #5e81ac; font-style: italic } .code .cpf { color: #616e87; font-style: italic } .code .c1 { color: #616e87; font-style: italic } .code .cs { color: #616e87; font-style: italic } .code .gd { color: #bf616a } .code .ge { color: #d8dee9; font-style: italic } .code .ges { color: #d8dee9; font-weight: bold; font-style: italic } .code .gr { color: #bf616a } .code .gh { color: #88c0d0; font-weight: bold } .code .gi { color: #a3be8c } .code .go { color: #d8dee9 } .code .gp { color: #616e88; font-weight: bold } .code .gs { color: #d8dee9; font-weight: bold } .code .gu { color: #88c0d0; font-weight: bold } .code .gt { color: #bf616a } .code .kc { color: #81a1c1; font-weight: bold } .code .kd { color: #81a1c1; font-weight: bold } .code .kn { color: #81a1c1; font-weight: bold } .code .kp { color: #81a1c1 } .code .kr { color: #81a1c1; font-weight: bold } .code .kt { color: #81a1c1 } .code .ld { color: #d8dee9 } .code .m { color: #b48ead } .code .s { color: #a3be8c } .code .na { color: #8fbcbb } .code .nb { color: #81a1c1 } .code .nc { color: #8fbcbb } .code .no { color: #8fbcbb } .code .nd { color: #d08770 } .code .ni { color: #d08770 } .code .ne { color: #bf616a } .code .nf { color: #88c0d0 } .code .nl { color: #d8dee9 } .code .nn { color: #8fbcbb } .code .nx { color: #d8dee9 } .code .py { color: #d8dee9 } .code .nt { color: #81a1c1 } .code .nv { color: #d8dee9 } .code .ow { color: #81a1c1; font-weight: bold } .code .pm { color: #eceff4 } .code .w { color: #d8dee9 } .code .mb { color: #b48ead } .code .mf { color: #b48ead } .code .mh { color: #b48ead } .code .mi { color: #b48ead } .code .mo { color: #b48ead } .code .sa { color: #a3be8c } .code .sb { color: #a3be8c } .code .sc { color: #a3be8c } .code .dl { color: #a3be8c } .code .sd { color: #616e87 } .code .s2 { color: #a3be8c } .code .se { color: #ebcb8b } .code .sh { color: #a3be8c } .code .si { color: #a3be8c } .code .sx { color: #a3be8c } .code .sr { color: #ebcb8b } .code .s1 { color: #a3be8c } .code .ss { color: #a3be8c } .code .bp { color: #81a1c1 } .code .fm { color: #88c0d0 } .code .vc { color: #d8dee9 } .code .vg { color: #d8dee9 } .code .vi { color: #d8dee9 } .code .vm { color: #d8dee9 } .code .il { color: #b48ead }</style>  <div onclick=' (function () { navigator.clipboard.writeText(`{
+  "categories": ["Posts", "Posts/Obsidian"],
+  "Posts": { "1": ["20240323_1711156165597"], "number": 1, "total_pages": 1 },
+  "Posts/Obsidian": {
+    "1": ["20240323_1711156165597"],
+    "number": 1,
+    "total_pages": 1
+  }
+}
+`); alert("Source code copied to clipboard!"); })(); ' style=" position: absolute; right: 0px; top: 0px; text-align: right; color: #fff; cursor: pointer; padding: 0.5rem 0.5rem; border-radius: 0.5rem; " >📋 COPY</div>  <div class="code"><table class="codetable"><tr><td class="linenos"><div class="linenodiv"><pre><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span>
+<span class="normal">6</span>
+<span class="normal">7</span>
+<span class="normal">8</span>
+<span class="normal">9</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">&quot;categories&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;Posts&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;Posts/Obsidian&quot;</span><span class="p">],</span>
+<span class="w">  </span><span class="nt">&quot;Posts&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">&quot;1&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;20240323_1711156165597&quot;</span><span class="p">],</span><span class="w"> </span><span class="nt">&quot;number&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="nt">&quot;total_pages&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="p">},</span>
+<span class="w">  </span><span class="nt">&quot;Posts/Obsidian&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nt">&quot;1&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;20240323_1711156165597&quot;</span><span class="p">],</span>
+<span class="w">    </span><span class="nt">&quot;number&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;total_pages&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></td></tr></table></div>
+ </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <h4>블로그 프론트</h4><p>프론트의 경우 React, Tailwind의 조합으로 코드를 작성했다. 그리고 vite로 빌드한다. post_structure.json를 읽고 왼쪽에 있는 카테고리를 구성한다. 그리고 글을 선택하면 글을 읽어와 화면에 표시한다. 그리고 그 결과는? 현재 이 블로그가 되는 것이다.</p>
+                    </div>
+                </div>
+            </div>
+            <div style="max-width:800px;text-align: left;" class="w-full"><hr style="margin-top: 5rem;padding-top: 2rem;" /><div style="--tw-bg-opacity: 1; background-color: rgba(249, 250, 251, var(--tw-bg-opacity));"><h4>다음 글 목록</h4><h5><a href="/post/20240329_1711705653695">Pygments로 소스코드 예쁘게 만들기</a></h5></div></div>8:["$","div",null,{"id":"post-page-outer","className":"w-full flex flex-col ","children":[["$","div",null,{"className":"w-full flex flex-col items-center","children":["$","div",null,{"className":"w-full","style":{"maxWidth":"800px"},"children":["$","$L9",null,{}]}]}],["$","div",null,{"id":"post-page-outer-2","children":["$","div",null,{"id":"post-page-inner","className":"w-11/12 lg:w-full flex flex-col justify-center items-center py-12 ","dangerouslySetInnerHTML":{"__html":"$a"}}]}],["$","div",null,{"className":"w-full flex flex-col items-center","children":["$","div",null,{"className":"w-full","style":{"maxWidth":"800px"},"children":["$","$L9",null,{}]}]}]]}]
