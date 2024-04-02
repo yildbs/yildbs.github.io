@@ -1,0 +1,96 @@
+3:I[5613,[],""]
+5:I[1778,[],""]
+6:I[1845,["185","static/chunks/app/layout-c8f8d06630b27218.js"],"GoogleAnalytics"]
+4:["postId","20240331_1711869713011","d"]
+0:["whU5Y1R1u0jYE5sj98LDp",[[["",{"children":["post",{"children":[["postId","20240331_1711869713011","d"],{"children":["__PAGE__?{\"postId\":\"20240331_1711869713011\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["post",{"children":[["postId","20240331_1711869713011","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98f63ff3d71cda2a.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"children":[["$","$L6",null,{"gaId":"GTM-MF6MGLMW"}],["$","body",null,{"children":[["$","div",null,{"id":"root"}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5950e7c033d5d858.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+8:I[8562,["607","static/chunks/607-79f310cc59f7d1f0.js","643","static/chunks/app/post/%5BpostId%5D/page-6dc66c9124cf2b16.js"],""]
+2:["$","main",null,{"className":"flex min-h-screen flex-col items-center justify-between","children":["$","div",null,{"id":"blog","className":"w-screen h-screen flex flex-row relative","style":{},"children":[["$","$L8",null,{}],["$","div",null,{"id":"main-section-2","className":"w-full bg-white overflow-y-auto","children":["$","div",null,{"id":"page-wrapper","className":"w-full h-full ","children":[["$","div",null,{"id":"page-wrapper-title","className":"w-full flex justify-center bg-gray-100 ","children":["$","h1",null,{"className":"flex break-normal h-96 align-middle items-center ","children":["$","div",null,{"className":"","children":[["$","div",null,{"className":"text-base","children":["$","div",null,{"className":"flex flex-row items-center ","children":["$","h5",null,{"className":"","children":["2024",".","03",".","31"]}]}]}],["$","div",null,{"className":"text-2xl","children":["$","div",null,{"className":"w-full flex flex-col lg:flex-row items-start lg:items-center ","children":[["$","h3",null,{"className":"","children":"보도자료 요약봇 만들기"}],false]}]}]]}]}]}],["$","hr",null,{}],["$","div",null,{"id":"page-wrapper-children","className":"w-full flex justify-center","children":"$L9"}],["$","div",null,{"id":"page-wrapper-spacer","className":"pt-12"}]]}]}],["$","div",null,{"id":"main-section-3","className":"w-full bg-blue-50 hidden lg:block","style":{"maxWidth":"300px"}}]]}]}]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"보도자료 요약봇 만들기"}],["$","meta","3",{"name":"description","content":"윤일로의 블로그"}],["$","meta","4",{"name":"author","content":"yildbs"}],["$","meta","5",{"name":"keywords","content":"텔레그램,Telegram,보도자료,크롤링,Crawling,셀레니움,selenium,라즈베리파이,raspberrypi,GPT,ChatGPT,파이썬,Python"}],["$","meta","6",{"name":"category","content":"Side Project"}],["$","meta","7",{"name":"google-site-verification","content":"ElFGAHUyc0YTvnoOV0l5L59dJFLSyZWKgFrfCoNEe5M"}],["$","meta","8",{"property":"og:title","content":"보도자료 요약봇 만들기"}],["$","meta","9",{"property":"og:description","content":"윤일로의 블로그"}],["$","meta","10",{"property":"og:image","content":"https://yildbs.github.io//static/obsidian/IMG_6486.jpeg"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"보도자료 요약봇 만들기"}],["$","meta","13",{"name":"twitter:description","content":"윤일로의 블로그"}],["$","meta","14",{"name":"twitter:image","content":"https://yildbs.github.io//static/obsidian/IMG_6486.jpeg"}],["$","link","15",{"rel":"icon","href":"/static/favicon/favicon-32x32.png"}]]
+1:null
+a:I[1797,["607","static/chunks/607-79f310cc59f7d1f0.js","643","static/chunks/app/post/%5BpostId%5D/page-6dc66c9124cf2b16.js"],""]
+b:T1510,
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <p><a href="https://t.me/kr_press_release_bot" target="_blank">보도자료 요약봇</a></p><p>얼마전에 친구의 부탁으로 만들어봤다. 친구는 업무상의 이유로 이런저런 사이트를 들어가서 글을 확인해봐야한다. 글이 올라왔는지 확인해야하고, 글이 올라왔으면 들어가서 내용을 확인해봐야한다. 게다가 공공기관은 대부분 PDF, HWP 형태로 올리기 때문에 글을 읽는게 상당히 번거롭다고 한다.  그래서 나한테 이를 자동으로 해줄수는 없냐고 물어보는 것이었다. 필요한 기능을 정리해보면 크롤링, 저장, 요약, 알림 정도였다. 기술적으로 문제가 될 부분은 없고, 게다가 요즘은 GPT도 있으니 내용을 요약하는 것은 GPT에게 맡기면 된다는 생각이 드는 순간</p><h3>만들어보면 재밌겠는데?</h3><p>라는 생각이 머릿속을 스쳤다. 바로 맥북을 열고 개발을 시작했다. </p><p><a href="https://t.me/kr_press_release_bot" target="_blank">보도자료 요약봇</a>은 이미 만들었고, 한달째 잘 돌아가고 있다. 근데 채널 인원은 10명뿐이 안된다ㅋㅋ. 역시 홍보가 제일 어려운것 같다.</p><h3>개발 환경 &amp; 운영 환경</h3><p>파이썬을 활용해서 개발했고 개발은 주로 맥북에서 진행했다. 다만, 맥북을 24시간 켜두고 서버를 돌려둘수는 없기때문에 프로그램을 돌릴 환경이 필요하다. 이는 라즈베리파이를 활용했다. 3년전 쯤에 이것저것 해보면서 라즈베리파이를 3개 구매했는데, 그 중 하나를 사용한다.  <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank">Raspberry Pi 4 Model B</a>  8GB 모델이다. <a href="https://www.eleparts.co.kr/goods/view?no=9467937" target="_blank">엘레파츠</a>에서는 현재 10만원에 판매되고 있는데, 당시에 구매할때에는 방열케이스에 이것저것 같이 구매하느라 대당 20만원 정도 지출했던걸로 기억한다. 다만 최근에 라즈베리파이5가 나와서 구매하실 분들은 참고하시면 되겠다.</p><p>결론은 개발은 맥북에서 하고, 24시간 돌려둘 서버는 라즈베리파이를 활용한다. </p><h3>구조</h3><p>운영 환경에서는 두개의 서비스(데몬)을 실행시킨다. Crawler와 Notifier가 그것이다. 서비스로 돌리고 있기 때문에 프로그램 수행 중 무언가 프로세스를 죽여야하거나, 문제가 생기거나, except가 안될때 프로세스를 죽이면 바로 다시 새로운 프로세스가 실행된다. </p><h4>Crawler</h4>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <div
+class="w-full"
+style="padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;"
+>
+<ul><li>크롤링할 사이트 들어가서 크롤링</li><li>PDF, HWP, HWPX 등 문서 읽기</li><li>문서 열어서 ChatGPT API로 요약 요청</li><li>DB에 요약한 결과 및 기타 크롤링 정보 Insert</li></ul>
+</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <h4>Notifier</h4>
+                    </div>
+                </div>
+            </div>
+            
+            <div
+            id="pygen-1"
+            class="w-full flex items-center justify-center"
+            style=""
+            >
+                <div
+                id="pygen-2"
+                class="w-full flex items-center justify-center"
+                style=""
+                >
+                    <div
+                    id="pygen-3"
+                    class="w-full"
+                    style="max-width:800px;"
+                    >
+                        <li>DB에서 텔레그렘으로 알려야하는 메시지 있는지 체크</li><li>있으면 메시지 보내고, DB Update</li>
+                    </div>
+                </div>
+            </div>
+            9:["$","div",null,{"id":"post-page-outer","className":"w-full flex flex-col ","children":[["$","div",null,{"className":"w-full flex flex-col items-center","children":["$","div",null,{"className":"w-full","style":{"maxWidth":"800px"},"children":["$","$La",null,{}]}]}],["$","div",null,{"id":"post-page-outer-2","children":["$","div",null,{"id":"post-page-inner","className":"w-11/12 lg:w-full flex flex-col justify-center items-center py-12 ","dangerouslySetInnerHTML":{"__html":"$b"}}]}],["$","div",null,{"className":"w-full flex flex-col items-center","children":["$","div",null,{"className":"w-full","style":{"maxWidth":"800px"},"children":["$","$La",null,{}]}]}]]}]

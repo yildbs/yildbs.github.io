@@ -1,3 +1,0 @@
-{
-  "/posts/[...category]/page": "app/posts/[...category]/page.js"
-}
