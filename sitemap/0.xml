@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://yildbs.github.io/post/20240402_1712057630223</loc>
+<lastmod>2024-04-02</lastmod>
+</url>
+<url>
 <loc>https://yildbs.github.io/post/20240323_1711156165597</loc>
 <lastmod>2024-03-23</lastmod>
 </url>
@@ -11,9 +15,5 @@
 <url>
 <loc>https://yildbs.github.io/post/20240328_1711605240936</loc>
 <lastmod>2024-03-28</lastmod>
-</url>
-<url>
-<loc>https://yildbs.github.io/post/20240329_1711705653695</loc>
-<lastmod>2024-03-29</lastmod>
 </url>
 </urlset>
