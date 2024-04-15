@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fpost\u002F[postId]","\u002Fposts\u002F[...category]","\u002Fsitemap\u002F[__metadata_id__]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
